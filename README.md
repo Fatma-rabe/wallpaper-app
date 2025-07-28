@@ -17,7 +17,7 @@ Users can explore and view high-quality wallpapers by categories, with seamless 
 
 - **Flutter** – Cross-platform app development framework  
 - **Dart** – Optimized UI programming language  
-- **Unsplash API / Pexels API** – For fetching wallpaper images *(replace with the one you're using)*  
+- **Unsplash API** – For fetching wallpaper images 
 - **Android Studio** – IDE for building and testing  
 - **HTTP package** – For API calls  
 - **Cached Network Image** – For efficient image loading  
